@@ -1,6 +1,7 @@
 # Проект по биоинформатике
 ### Векшин Кирилл, 2 группа
 [ссылка на ноутбук](https://colab.research.google.com/drive/1uU7YXPChXkH3S0cnkuttwEb8Gvo2YP7s?usp=sharing)
+
 [ссылка на диск с файлами](https://drive.google.com/drive/folders/1zBbtY4fv1ASjg7GU_YTCdCI_G0JXNtlO?usp=sharing)
 ## Таблица 1, количества попаданий
 
