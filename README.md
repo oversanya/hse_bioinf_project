@@ -43,3 +43,5 @@ A. stephensi — это субтропический вид комаров, ко
 | Promoters (1000 up from TSS) | 429                            | 0.042                         | 7845                                  | 0.024                                | 3218                                      | 0.051                                   |
 | Downstream (200 bp)         | 92                             | 0.009                         | 1532                                  | 0.0047                               | 418                                       | 0.0066                                  |
 | Intergenic                  | 4236                           | 0.42                          | 18724                                 | 0.058                                | 9231                                      | 0.15                                    |
+## Таблица 3, эпигенетические гены
+![image](https://github.com/user-attachments/assets/97c6e59e-c56b-4f8a-ba32-76bd9b07d20d)
